@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# monsters-docket
+Monster Dockets is a React application designed for monster enthusiasts. This app provides users with a search bar where they can enter the name of a specific monster. Upon entering a monster's name, the app dynamically displays information and details about that particular monster.
+>>>>>>> e28ef11684bdc57a25267bbc5a4ee152fae7b1df
